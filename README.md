@@ -1,4 +1,4 @@
-# Curso Didital (Santander Coders)
+# Curso Digital (Santander Coders)
 Esse é o README do projeto Santander Coders 2023.
 
 ## Git/Versionamento
