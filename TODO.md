@@ -1,2 +1,0 @@
-- [ ] Dar merge nas branches 
-- [ ] Commitar atualizações
