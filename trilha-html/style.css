@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&family=Roboto:wght@500;900&display=swap');
+/*font-family: 'Rajdhani', sans-serif;
+font-family: 'Roboto', sans-serif;*/
 
 *{
    box-sizing: border-box;
@@ -51,4 +53,8 @@ header nav{
     list-style: none;
     margin-bottom: var(--margin-botton);
     font-size: 1.2rem;  
+}
+
+main{
+    margin-top: 2rem;
 }
