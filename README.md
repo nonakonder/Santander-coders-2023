@@ -7,3 +7,6 @@ Esse é o README do projeto Santander Coders 2023.
 "Modificação teste para entender Git Diff"
 - O comando [git log] mostra os últimos registros feitos e comitados. 
 - O comando [git restore] vai restaurar as últimas alterações e estados adicionados ao nosso código. 
+
+## HTML (Algumas anotações)
+

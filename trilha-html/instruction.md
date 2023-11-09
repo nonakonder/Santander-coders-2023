@@ -5,12 +5,12 @@ Este site é uma ideia pessoal de aplicação do estudo que abrangem os conhecim
 
 ## Sinta-se a vontade para se inspirar e compartilhar ideias   
 
-Summary: Uma página web interativa com algumas dicas e soluções do Santander para jovens. 
-    -Escopo: Site possui a identidade visual Santander, informações interativas e visualmente atrativas para navegação, além da referência das fontes e hiperlinks para o site oficial da instituição. 
+Summary: Uma página web (estilo landing) interativa com algumas dicas e soluções para declarar imposto de renda
+    !! Esse site terá muitos lordemipsuns!! 
 
-<Header> : Menu [Home, dicas, soluções], Logo Santander
+<Header> : Menu [Home, dicas, soluções(artigos santander)], Logo Santander 
 
-<main> : barra de busca e os artigos
+<main> : barra de busca(?) e o passo a passo para primeira declaraçao, tabela com a media salarial e o imposto a ser  pago. uma section de perguntas e respostas mais frequentes sobre declaração de imposto de renda. + uma section de artigos que levam para a página de artigos do Santander. 
 
 <footer> : menu com hiperlinks para os conteúdos da página oficial Santander, resumo do site
 
