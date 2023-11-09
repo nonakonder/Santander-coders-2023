@@ -12,9 +12,10 @@
     --color-white: rgb(255, 255, 255);
     --background-black: rgb(30, 29, 29);
     --color-black: rgb(0, 0, 0);
+    --margin-botton: 0.75rem;
 }
 
-p,li{
+p, a{
     font-family: 'Rajdhani', sans-serif;
     font-weight: 500;  
     color: var(--secondary-font-color)  
@@ -28,6 +29,26 @@ body{
     background-color: var(--background-black);
 }
 
+header{
+    display: block;
+    text-align: center;
+    box-shadow: 0 0.1rem  1.5rem var(--primary-font-color) ;
+
+}
+
 header img{
     width: 20rem;
+    margin: .75rem;
+}
+header nav{
+    padding-bottom: var(--margin-botton);
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    justify-content: center;
+    list-style: none;
+    margin-bottom: var(--margin-botton);
+    font-size: 1.2rem;  
 }
