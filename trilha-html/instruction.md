@@ -15,3 +15,5 @@ Summary: Uma página web (estilo landing) interativa com algumas dicas e soluç�
 <footer> : menu com hiperlinks para os conteúdos da página oficial Santander, resumo do site
 
 Obs: Este projeto será atualizado com frequência.
+
+Obs: Os direitos dos conteúdos desse projeto são inteiramente do banco Santader e os respectivos assets encontram-se presentes exclusivamente para estudo !!
