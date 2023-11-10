@@ -13,9 +13,10 @@ font-family: 'Roboto', sans-serif;*/
     --secondary-font-color: rgb(255, 241, 232);
     --color-white: rgb(255, 255, 255);
     --background-black: rgb(30, 29, 29);
+    --color-darkgray:rgb(15, 18, 22);
     --color-black: rgb(0, 0, 0);
     --margin-botton: 0.75rem;
-    --font-family: 'Rajdhani','Roboto', sans-serif
+    --font-family: 'Rajdhani','Roboto', sans-serif;
 }
 
 p, a{
@@ -29,7 +30,7 @@ h1,h2,h3{
     color: var(--primary-font-color);
 }
 body{
-    background-color: var(--background-black);
+    background-color: var(--color-darkgray);
 }
 
 header{
@@ -58,8 +59,15 @@ header nav{
 
 main{
     margin-top: 2rem;
+    padding: 1rem;
 }
-
+.conteudo-main{
+    text-transform:uppercase; 
+    margin-bottom: 1.5rem;
+}
+.conteudo-main p{
+    margin-bottom: var(--margin-botton);
+}
 select{
     font-size: 1rem;
     background-color: var(--background-black);
@@ -67,4 +75,5 @@ select{
     padding: 0.5rem 1rem;
     appearance: none;
     border-radius: 1rem;
+    margin-bottom: 2rem;
 }
