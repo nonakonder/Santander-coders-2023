@@ -15,15 +15,16 @@ font-family: 'Roboto', sans-serif;*/
     --background-black: rgb(30, 29, 29);
     --color-black: rgb(0, 0, 0);
     --margin-botton: 0.75rem;
+    --font-family: 'Rajdhani','Roboto', sans-serif
 }
 
 p, a{
-    font-family: 'Rajdhani', sans-serif;
+    font-family: var(--font-family);
     font-weight: 500;  
-    color: var(--secondary-font-color)  
+    color: var(--secondary-font-color);
 }
 h1,h2,h3{
-    font-family:  'Rajdhani', sans-serif;
+    font-family:var(--font-family);
     font-weight: 900;
     color: var(--primary-font-color);
 }
